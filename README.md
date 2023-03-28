@@ -1,7 +1,9 @@
+<div align="center">
+
 ##  Olá, seja muito bem vindo(a)!!!
 ### Me chamo Ariel e estou entrando no mundo Dev!!!
 
-<div align="center">
+<div>
   <a href="https://github.com/ArielVinis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielvinis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvinis&layout=compact&langs_count=7&theme=dracula"/>
