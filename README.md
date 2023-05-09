@@ -1,20 +1,26 @@
 <div align="center">
 
 ##  Olá, seja muito bem vindo(a)!!!
-### Me chamo Ariel e estou entrando no mundo Dev!!!
+### Me chamo Ariel, sou ganancioso por conhecimento e estou entrando no mundo Dev!!!
 
 <div>
   <a href="https://github.com/ArielVinis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arielvinis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvinis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  ### Procuro aprender estas linguagens inicialmente.
-  
+
 <div style="display: inline_block"><br>
+  
+  ### Habilidades que já possuo.
+  
   <img align="center" alt="Ariel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Ariel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ariel-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  
+##
+  
+  ### Logo logo aprenderei estas também.
+  
   <img align="center" alt="Ariel-Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
   <img align="center" alt="Ariel-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ariel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
