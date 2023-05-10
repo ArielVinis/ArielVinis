@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
   
-  ### Habilidades que já possuo.
+  ### Habilidades que possuo.
   
   <img align="center" alt="Ariel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Ariel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -19,7 +19,7 @@
   
 ##
   
-  ### Logo logo aprenderei estas também.
+  ### Logo logo possuirei estas também.
   
   <img align="center" alt="Ariel-Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
   <img align="center" alt="Ariel-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
