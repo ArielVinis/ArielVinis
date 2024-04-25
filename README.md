@@ -2,6 +2,9 @@
 
 #  Good to see you here! Welcome!!! 👋
 ### public class Java { Back-end Developer }
+
+![logo linkedin](https://github.com/ArielVinis/ArielVinis/assets/89565617/cb88f6bf-d36f-4f8f-8bc2-21e4cd0bd416)
+
 ### Desejo trabalhar como back-end developer, estou estudando e me aperfeiçoando em Java e seu Roadmap :computer:
 
 </div> 
@@ -9,7 +12,7 @@
  <br/> 💜 &nbsp; Buscando colaborar com projetos em Back-end usando Java;
  <br/> 💻 &nbsp; Minhas stack's: Java & Springboot;
  <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento;
- <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games, livros e animes. Meu usuário no Discord: arielvinis ;
+ <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, livros e animes. Meu usuário no Discord: arielvinis ;
  <br/> :email: &nbsp; Entre em contato comigo:
 </div>
 
