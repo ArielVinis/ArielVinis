@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Good to see you here! Welcome!!! 👋
+##  Hi there I'm Ariel França! Welcome!!! 👋
 ### public class Java { Back-end Developer }
 
 ![logo linkedin](https://github.com/ArielVinis/ArielVinis/assets/89565617/cb88f6bf-d36f-4f8f-8bc2-21e4cd0bd416)
@@ -8,12 +8,12 @@
 ### Desejo trabalhar como back-end developer, estou estudando e me aperfeiçoando em Java e seu Roadmap :computer:
 
 </div> 
- <br/> 💼 &nbsp; Trabalho na Pisos e Fomas como Analista Logístico;
- <br/> 💜 &nbsp; Buscando colaborar com projetos em Back-end usando Java;
+ <br/> 💼 &nbsp; Trabalho na Pisos e Fomas como Analista Logístico realizando desenvolvimento ágil e documentações;
+ <br/> 💜 &nbsp; Buscando colaborar com projetos em Back-end utilizando Java;
  <br/> 💻 &nbsp; Minhas stack's: Java & Springboot;
  <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento;
- <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, livros e animes. Meu usuário no Discord: arielvinis ;
- <br/> :email: &nbsp; Entre em contato comigo:
+ <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, livros, animes e cafeterias.
+ <br/> 🤝🏻 &nbsp; Conecte-se comigo;
 </div>
 
 <div align="center">
