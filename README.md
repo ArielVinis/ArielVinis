@@ -1,14 +1,15 @@
 <div align="center">
 
-#  Good to see you here! 👋
+#  Good to see you here! Welcome!!! 👋
 ### public class Java { Back-end Developer }
 ### Desejo trabalhar como back-end developer, estou estudando e me aperfeiçoando em Java e seu Roadmap :computer:
 
-</div>
- 💼  &nbsp; Estou trabalhando na **Pisos e Fomas** como análista de logística;
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Java;
- <br/> :computer: &nbsp; Minha stack: Java & Springboot;
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, livros e animes. Meu usuário no Discord: arielvinis
+</div> 
+ <br/> 💼 &nbsp; Trabalho na Pisos e Fomas como Analista Logístico;
+ <br/> 💜 &nbsp; Buscando colaborar com projetos em Back-end usando Java;
+ <br/> 💻 &nbsp; Minhas stack's: Java & Springboot;
+ <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento;
+ <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games, livros e animes. Meu usuário no Discord: arielvinis ;
  <br/> :email: &nbsp; Entre em contato comigo:
 </div>
 
