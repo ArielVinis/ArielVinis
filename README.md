@@ -12,7 +12,7 @@
  <br/> 💜 &nbsp; Buscando colaborar com projetos em Back-end utilizando Java;
  <br/> 💻 &nbsp; Minhas stack's: Java & Springboot;
  <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento;
- <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, livros, animes e cafeterias.
+ <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, academia, livros, animes e cafeterias.
  <br/> 🤝🏻 &nbsp; Conecte-se comigo;
 </div>
 
