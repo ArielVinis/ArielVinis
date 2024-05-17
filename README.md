@@ -1,17 +1,18 @@
 <div align="center">
 
 ##  Hi there! Welcome!!! 👋
-### public class Java { Back-end Developer }
+### public class Java { Backend Developer }
 
 ![logo linkedin](https://github.com/ArielVinis/ArielVinis/assets/89565617/cb88f6bf-d36f-4f8f-8bc2-21e4cd0bd416)
 
-### Olá, me chamo Ariel França e desejo me tornar desenvolvedor de software Backend.
+### Olá, me chamo Ariel França e desejo me tornar desenvolvedor Backend.
 Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, priorizando sempre agregar a equipe com soluções ágeis e eficazes. :computer:
 
 </div> 
  <br/> 💼 &nbsp; Trabalho na Pisos e Fomas como Analista Logístico realizando desenvolvimento ágil e documentações;
  <br/> 💜 &nbsp; Buscando colaborar com projetos em Back-end utilizando Java;
  <br/> 💻 &nbsp; Minhas stack's: Java & Springboot;
+ <br/> 📚 &nbsp; Me preparando para prova da Oracle Java;
  <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento;
  <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, academia, livros, animes e cafeterias;
  <br/> 🤝🏻 &nbsp; Conecte-se comigo;
