@@ -9,8 +9,7 @@
 Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, priorizando sempre agregar a equipe com soluções ágeis e eficazes. :computer:
 
 </div> 
- <br/> 💼 &nbsp; Trabalho na Pisos e Fomas como Analista Logístico realizando desenvolvimento ágil e documentações;
- <br/> 💜 &nbsp; Buscando colaborar com projetos em Back-end utilizando Java;
+ <br/> 💜 &nbsp; Buscando colaborar com projetos Back-end utilizando Java;
  <br/> 💻 &nbsp; Minhas stack's: Java & Springboot;
  <br/> 📚 &nbsp; Me preparando para tirar a Certificação Java;
  <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento;
