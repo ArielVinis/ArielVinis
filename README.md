@@ -1,7 +1,7 @@
 <div align="center">
 
 ##  Hi there! Welcome!!! 👋
-### public class Java { Backend Developer }
+### public class Back-end Developer
 
 ![logo linkedin](https://github.com/ArielVinis/ArielVinis/assets/89565617/cb88f6bf-d36f-4f8f-8bc2-21e4cd0bd416)
 
