@@ -6,13 +6,13 @@
 ![logo linkedin](https://github.com/ArielVinis/ArielVinis/assets/89565617/cb88f6bf-d36f-4f8f-8bc2-21e4cd0bd416)
 
 ### Olá, meu nome é Ariel França!
-Busco uma oportunidade na área da tecnologia e desejo me tornar desenvolvedor de software Backend futuramente. Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, sempre com o objetivo de agregar valor à equipe com soluções ágeis e eficazes. :computer:
+Busco uma oportunidade na área da tecnologia e desejo me tornar desenvolvedor de software Back-end futuramente. Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, sempre com o objetivo de agregar valor à equipe com soluções ágeis, eficazes e empatia. :computer:
 
 </div> 
- <br/> 💜 &nbsp; Buscando colaborar com projetos Back-end utilizando Java ou Node.js;
+ <br/> 💜 &nbsp; Buscando colaborar com projetos Back-end utilizando Java, Node.js e inteligência artificial;
  <br/> 💻 &nbsp; Minhas stack's: Java & Springboot, Node & express;
- <br/> 📚 &nbsp; Me preparando para tirar a Certificação Java;
- <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento;
+ <br/> 📚 &nbsp; Sempre estudando sobre como melhorar o meu código;
+ <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento; // formação prevista para 06/2026.
  <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, academia, livros, animes e cafeterias;
  <br/> 🤝🏻 &nbsp; Conecte-se comigo;
 </div>
