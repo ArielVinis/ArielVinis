@@ -10,8 +10,8 @@ Busco uma oportunidade na área da tecnologia e desejo me tornar desenvolvedor d
 
 </div> 
  <br/> 💜 &nbsp; Buscando colaborar com projetos Back-end utilizando Java, Node.js e inteligência artificial;
- <br/> 💻 &nbsp; Minhas stack's: Java & Springboot, Node & express;
- <br/> 📚 &nbsp; Sempre estudando sobre como melhorar o meu código;
+ <br/> 💻 &nbsp; Minhas stack's: Java & Springboot, Node & express, Python & IA;
+ <br/> 📖 &nbsp; Sempre estudando sobre como melhorar o meu código;
  <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento; // formação prevista para 06/2026.
  <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, academia, livros, animes e cafeterias;
  <br/> 🤝🏻 &nbsp; Conecte-se comigo;
