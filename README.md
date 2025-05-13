@@ -56,5 +56,5 @@ Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em
 </div>
 
 <div align="center">
-  <img src="https://github.com/arielvinis/arielvinis/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/arielvinis/arielvinis/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
