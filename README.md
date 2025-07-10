@@ -5,8 +5,7 @@
 
 ![LinkedIn Profile](https://github.com/ArielVinis/ArielVinis/assets/89565617/cb88f6bf-d36f-4f8f-8bc2-21e4cd0bd416)
 
-### Olá, meu nome é Ariel França!
-Atualmente trabalho como desenvolvedor na Maffezzolli Soluções Financeiras com Ruby e React. 
+### Olá, meu nome é Ariel França! 
 Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, sempre com o objetivo de agregar valor à equipe com soluções ágeis, eficazes e empatia. 💻
 
 </div>
