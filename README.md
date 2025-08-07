@@ -57,6 +57,8 @@ Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em
   </a>
 </div>
 
-# <div align="center">
-#  <img src="https://github.com/ArielVinis/ArielVinis/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-# </div>
+<!--
+ <div align="center">
+  <img src="https://github.com/ArielVinis/ArielVinis/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+ </div>
+-->
