@@ -1,11 +1,11 @@
 <div align="center">
 
 ## Hi there! Welcome! 👋
-### Back-end Developer
+### My name is Ariel França!
 
-![LinkedIn Profile](https://github.com/ArielVinis/ArielVinis/assets/89565617/cb88f6bf-d36f-4f8f-8bc2-21e4cd0bd416)
+<img width="4950" height="1238" alt="Professional Profile" src="https://github.com/user-attachments/assets/3b82797f-8afc-4d65-994b-bedc41d37a6a" />
 
-### Olá, meu nome é Ariel França! 
+### I'm a FullStack Developer
 Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, sempre com o objetivo de agregar valor à equipe com soluções ágeis, eficazes e empatia. 💻
 
 </div>
@@ -13,8 +13,8 @@ Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em
 <div>
   💜 &nbsp; Buscando colaborar com projetos Fullstack utilizando Java, Typescript, Python e Inteligência Artificial
   <br/> 💻 &nbsp; Minhas stacks: Java & Spring | Python | Node | Typescript | React
-  <br/> 📖 &nbsp; Sempre estudando sobre como melhorar meu código
-  <br/> 📚 &nbsp; Faculdade de Análise e Desenvolvimento de Sistemas em andamento (formação prevista para 06/2026)
+  <br/> 📖 &nbsp; Sempre estudando sobre soluções e escalabilidade de sistemas.
+  <br/> 📚 &nbsp; Formado em Análise e Desenvolvimento de Sistemas: 06/2026
   <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, games, academia, livros, animes e cafeterias
   <br/> 🤝🏻 &nbsp; Conecte-se comigo
 </div>
