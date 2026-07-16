@@ -6,12 +6,12 @@
 <img width="4950" height="1238" alt="Professional Profile" src="https://github.com/user-attachments/assets/3b82797f-8afc-4d65-994b-bedc41d37a6a" />
 
 ### I'm a FullStack Developer
-Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, sempre com o objetivo de agregar valor à equipe com soluções ágeis, eficazes e empatia. 💻
+Tenho facilidade em aprender, me adaptar a diferentes contextos e colaborar com times, além de uma visão voltada não apenas para código, mas para a construção de soluções que realmente façam sentido para o usuário e para o negócio. 💻
 
 </div>
 
 <div>
-  💜 &nbsp; Buscando colaborar com projetos Fullstack utilizando Java, Typescript, Python e Inteligência Artificial
+  💜 &nbsp; Buscando colaborar com projetos Fullstack utilizando Java, Typescript, React, Python, automações e Inteligência Artificial
   <br/> 💻 &nbsp; Minhas stacks: Java & Spring | Python | Node | Typescript | React
   <br/> 📖 &nbsp; Sempre estudando sobre soluções e escalabilidade de sistemas.
   <br/> 📚 &nbsp; Formado em Análise e Desenvolvimento de Sistemas: 06/2026
@@ -29,7 +29,7 @@ Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em
 
 ##
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack's
 
 <div style="display: inline_block">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -44,19 +44,17 @@ Sou um profissional estudioso, dedicado e disposto a encarar qualquer desafio em
   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
-### 📚 Em Aprendizado
-
-<div style="display: inline_block">
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-</div>
-
 #
 <div>
-  <a href="https://github.com/ArielVinis">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvinis&layout=compact&langs_count=7&theme=dracula" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arielvinis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues" alt="GitHub Stats"/>
-  </a>
+  <section>
+    <h3>Github stats:</h3>
+
+  [![](https://github-readme-stats.vercel.app/api?username=ArielVinis&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ArielVinis)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=ArielVinis&theme=material-palenight)](https://github.com/ArielVinis)
+  
+  </section>
 </div>
+
 
 <!--
  <div align="center">
