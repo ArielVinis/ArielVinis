@@ -45,6 +45,17 @@ Tenho facilidade em aprender, me adaptar a diferentes contextos e colaborar com 
 </div>
 
 #
+
+### Certifications
+
+<div style="display: inline_block">
+  <a href="[(link do certificado)](https://hermes.dio.me/certificates/TL8OZJHW.pdf)" target="_blank">
+  <img src="https://assets.dio.me/As8myBYsfwAqBuWvNCCNP93osO5YM6i9xVRjhd5et28/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjAzMzliMjgtNzJjNy00ZWE4LTkxYzctNWE0Y2I4NTA5ZGFlLnBuZw" height="105"/>
+</a>
+</div>
+
+#
+
 <div>
   <section>
     <h3>Github stats:</h3>
