@@ -32,6 +32,7 @@ Tenho facilidade em aprender, me adaptar a diferentes contextos e colaborar com 
 ### 🛠️ Tech Stack's
 
 <div style="display: inline_block">
+  
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -42,6 +43,7 @@ Tenho facilidade em aprender, me adaptar a diferentes contextos e colaborar com 
   <img align="center" alt="Rails" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
 </div>
 
 #
@@ -49,7 +51,7 @@ Tenho facilidade em aprender, me adaptar a diferentes contextos e colaborar com 
 ### Certifications
 
 <div style="display: inline_block">
-  <a href="[(link do certificado)](https://hermes.dio.me/certificates/TL8OZJHW.pdf)" target="_blank">
+  <a href="https://hermes.dio.me/certificates/TL8OZJHW.pdf" target="_blank">
   <img src="https://assets.dio.me/As8myBYsfwAqBuWvNCCNP93osO5YM6i9xVRjhd5et28/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjAzMzliMjgtNzJjNy00ZWE4LTkxYzctNWE0Y2I4NTA5ZGFlLnBuZw" height="105"/>
 </a>
 </div>
